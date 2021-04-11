@@ -6,16 +6,10 @@
 **Surname:** Ulucam  
 **Email:** agemennon98@gmail.com  
  
-## Project Name
-Description of your project.
+## Final_project
 
-## Requirements
-```
-Some python libraries
-Some python libraries
-Some python libraries
-```
----
+Run the .py file to take the quiz and
+Anwsers.txt file has answers in it so i reccomend you to don't read it before taking the quiz.
 
 ### Certification
 ![](img/TopLearnerCertificate.png)
